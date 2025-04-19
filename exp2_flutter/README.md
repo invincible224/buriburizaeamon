@@ -1,6 +1,6 @@
 Q.)To design flutter UI by including common widget
 
-
+for better understanding check screenshot
 
 exp2_flutter/
 ├── android/                 # Android native files
