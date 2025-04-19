@@ -1,14 +1,16 @@
 exp2_flutter/
-│
-├── android/                  # Android-specific files
-├── ios/                      # iOS-specific files
-├── lib/                      # Dart source files
+├── android/
+│   └── ...                  # Android native files
+├── ios/
+│   └── ...                  # iOS native files
+├── lib/
 │   └── screens/
-│       ├── main.dart         # Main entry file
-│       └── home_screen.dart  # UI screen with widgets
-│
-├── pubspec.yaml              # Project metadata and dependencies
-├── README.md                 # This file
+│       ├── main.dart        # Entry point of the app
+│       └── home_screen.dart # Home screen with common widgets
+├── pubspec.yaml             # Project configuration
+├── README.md                # Project guide
+├── test/                    # Test files (if any)
+└── ...
 
 
 Just do the above folder structure 
