@@ -1,3 +1,7 @@
+Q.)To design flutter UI by including common widget
+
+
+
 exp2_flutter/
 ├── android/                 # Android native files
 ├── ios/                     # iOS native files
