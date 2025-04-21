@@ -10,4 +10,4 @@ animated_container_app/ │
     ├── lib/ │ 
         ├── main.dart │ 
         └── screens/ │ 
-            └── animated_container_screen.dart │
+            └── animated_container_screen.dart 
